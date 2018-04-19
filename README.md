@@ -1,2 +1,2 @@
 # hello-world
-Write a short description
+The first repo created by personal account, test.
